@@ -43,5 +43,5 @@ To experience FIRESNOW®:
 
 ## Author
 
-This project was created by [Your Name].
+(č) Vadym Chervoniak
 
